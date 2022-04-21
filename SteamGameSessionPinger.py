@@ -108,7 +108,10 @@ def closeSession(playerID, timestamp, dynamodb=None):
 personaStates = {"0": "Offline", "1":"Online", "2":"Busy", "3":"Away", "4":"Snooze", "5":"Looking to trade", "6":"Looking to play"}
 
 accessKey = get_steam_secret()
-steamids = "76561198020221785"
+
+
+#Steam IDs to be looked up go here (must not be private)
+steamids = "76561197960287930" #Gabe Newell's profile
 
 
 # #Get player data
