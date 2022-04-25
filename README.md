@@ -9,3 +9,4 @@ Repo for random stuff I decide to create.
 - YIAYRG - Done in the scope of an ARG, trying to spot changing video tags across youtube videos: 
   - import.py: takes a list of youtube video url sections ("/watch?v=dQw4w9WgXcQ"), return get URL, Title and tags and output them to a file.
   - compare.py: takes outputs from two executions of import.py and print out any tag that is different.
+- elections.py: Script made for the 2021 PT Presidential elections. Outputs...... something, probably.
