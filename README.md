@@ -10,3 +10,4 @@ Repo for random stuff I decide to create.
   - import.py: takes a list of youtube video url sections ("/watch?v=dQw4w9WgXcQ"), return get URL, Title and tags and output them to a file.
   - compare.py: takes outputs from two executions of import.py and print out any tag that is different.
 - elections.py: Script made for the 2021 PT Presidential elections. Outputs...... something, probably.
+- IRS2H2023.py: Calcs each euro value taxes for the 2nd half of 2023 tables, which contains some messed up stuff.
